@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "base_track": "愛言葉V",
-  "base_artist": "DECO*27",
-  "createdAt": "2026-02-28T19:25:52.838571Z",
+  "base_track": "ブレインロット (Instrumental)",
+  "base_artist": "東京真中",
+  "createdAt": "2026-02-28T19:26:03.255552Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "愛言葉V",
-      "artist": "DECO*27",
-      "has_synced": true,
-      "path": "select/01_愛言葉V_DECO_27.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "愛言葉V",
-      "artist": "DECO*27",
+      "title": "ブレインロット",
+      "artist": "東京真中",
       "has_synced": false,
-      "path": "select/pl_01_愛言葉V_DECO_27.txt"
+      "path": "select/pl_01_ブレインロット_東京真中.txt"
     }
   ]
 }
